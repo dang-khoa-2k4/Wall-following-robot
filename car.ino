@@ -3,13 +3,10 @@
 #define STEP_TIME_64 4e-6
 #define TIMER1_STEP_CYCLE 65536
 
-
-
 const byte trig = 8;
 const float BaseSpeed = 70;
 const float distanceSetPoint = 7;
 const float rateSetPoint = 0;
-
 
 
 struct countPulse {
